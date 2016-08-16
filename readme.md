@@ -8,8 +8,6 @@ A sample application to view github Profile
 
 ### Steps to run  
 
-Bullet list:
-
   * Clone the repository
   * Go inside the directory
   * Run npm install
